@@ -1,0 +1,2 @@
+module HoumesHelper
+end
